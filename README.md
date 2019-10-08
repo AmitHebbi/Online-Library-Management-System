@@ -32,7 +32,7 @@ Student Features:
 - Student can also change own password.
 - Student can also recover own password.
 
-```
+`
 **How to run this Project**  
 
 1. Download and Unzip file on your local system.  
@@ -54,4 +54,4 @@ Open Your browser put inside browser “http://localhost/library/admin”
 **Login Details for admin :**  
 **Username :** admin  
 **Password :** Test@123
-```
+`
