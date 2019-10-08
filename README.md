@@ -1,7 +1,7 @@
 # Library-Management-System
 
 
-|                                                       |
+|                     |                                 |
 |---------------------|---------------------------------|
 |Language Used        |PHP                              |
 |Database             |My SQL                           |
