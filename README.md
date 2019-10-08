@@ -1,9 +1,8 @@
 # Library-Management-System
-
-
-|                     |                                 |
+---
+|Item                 |Requirement                      |
 |---------------------|---------------------------------|
-|Language Used        |PHP                              |
+|Language             |PHP                              |
 |Database             |My SQL                           |
 |User Interface Design|HTML, AJAX,JQUERY,JAVASCRIPT     |
 |Web Browser          |Mozilla, Google Chrome, IE8,OPERA|
