@@ -1,5 +1,6 @@
 # Library-Management-System
 
+|---------------------|---------------------------------|
 |Language Used        |PHP                              |
 |Database             |My SQL                           |
 |User Interface Design|HTML, AJAX,JQUERY,JAVASCRIPT     |
