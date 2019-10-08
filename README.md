@@ -6,9 +6,9 @@
 |Database             |My SQL                           |
 |User Interface Design|HTML, AJAX,JQUERY,JAVASCRIPT     |
 |Web Browser          |Mozilla, Google Chrome, IE8,OPERA|
-|Software             |XAMPP Server                     |
-
-
+|Software             |XAMPP Server                     |  
+  
+  
 > Demo
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/imxnWaL96ak/0.jpg)](http://www.youtube.com/watch?v=imxnWaL96ak)
