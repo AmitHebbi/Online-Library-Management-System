@@ -1,5 +1,5 @@
 # Library-Management-System
----
+
 |Item                 |Requirement                      |
 |---------------------|---------------------------------|
 |Language             |PHP                              |
@@ -8,10 +8,9 @@
 |Web Browser          |Mozilla, Google Chrome, IE8,OPERA|
 |Software             |XAMPP Server                     |
 
----
 > Demo
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=imxnWaL96ak
+" target="_blank"><img src="http://img.youtube.com/vi/imxnWaL96akE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Online library Management System divided in two modules–
