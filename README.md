@@ -10,7 +10,7 @@
 
 > Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=imxnWaL96ak
-" target="_blank"><img src="https://img.youtube.com/vi/<imxnWaL96ak>/0.jpg" 
+" target="_blank"><img src="https://img.youtube.com/vi/imxnWaL96ak/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Online library Management System divided in two modules–
