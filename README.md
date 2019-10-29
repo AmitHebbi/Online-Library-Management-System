@@ -1,4 +1,4 @@
-# Library-Management-System
+# Online-Library-Management-System
 
 |Item                 |Requirement                      |
 |---------------------|---------------------------------|
